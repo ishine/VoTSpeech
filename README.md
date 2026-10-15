@@ -131,4 +131,4 @@ please do not post sensitive personal information publicly.
 Wenbing Yang¹, Qihang Lu², Zihan Sun², Peilei Jia², Yingming Gao¹, Ya Li¹, and Jun Gao²
 
 ¹ Beijing University of Posts and Telecommunications  
-² Hello Group Inc.
+² Hello Group
