@@ -5,6 +5,7 @@
 ### Decoupling Voice Design from Speech Generation in Instruction-Following TTS
 
 <p>
+  <a href="https://arxiv.org/abs/2610.14694"><img src="https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper on arXiv"></a>
   <a href="https://ywbn.github.io/VoTSpeech/"><img src="https://img.shields.io/badge/Online_Demo-6C4BC1?style=for-the-badge" alt="Online Demo"></a>
   <a href="https://huggingface.co/Ywbn16/VoTSpeech"><img src="https://img.shields.io/badge/Model_Weights-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Model Weights"></a>
 </p>
